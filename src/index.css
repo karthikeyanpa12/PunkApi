@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.back-button{
+   text-align: left;
+    width: 200px;
+    float: left;
+    padding: 12px;
+    margin:12px;
+}
+
+.back-button a{  
+    cursor: pointer; 
+}
+
+.home button{
+  margin: 12px;
+  float: left;
+}
